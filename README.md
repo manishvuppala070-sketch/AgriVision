@@ -125,7 +125,15 @@ The application displays:
 ## Team
 
 This project was developed as a collaborative effort by:
-- [Add team member names and roles here]
+
+- **V. Manish** – Team Lead & CNN Architect  
+  Oversaw project direction, coordinated all phases of development, and implemented the core CNN pipeline. Guided model tuning, dataset integration, and technical documentation.
+
+- **M. Rishitha** – Data Preprocessing & Evaluation  
+  Led data cleaning, normalization, and preprocessing efforts. Evaluated model accuracy across different classes and contributed to confusion matrix analysis.
+
+- **A. Varun** – Visualization & Reporting  
+  Created clear visualizations of training performance and classification outputs. Helped structure README documentation and summarize project findings.
 
 ## Contributing
 
