@@ -47,7 +47,10 @@ tkinter
    ```bash
    pip install opencv-python numpy scikit-learn tensorflow matplotlib seaborn joblib
    ```
-3. Ensure the EuroSAT dataset is in the `EuroSAT/` directory
+3. Download and extract the EuroSAT dataset:
+   - Download from: https://github.com/phelber/EuroSAT
+   - Or direct link: http://madm.dfki.de/files/sentinel/EuroSAT.zip
+   - Extract to `EuroSAT/` directory in project root
 4. Run the application:
    ```bash
    python Main.py
