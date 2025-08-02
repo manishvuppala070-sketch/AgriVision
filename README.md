@@ -121,3 +121,16 @@ The application displays:
 - Preprocessed data is cached to avoid reprocessing
 - Images are resized to 64x64 pixels for consistency
 - The GUI provides step-by-step workflow guidance
+
+## Team
+
+This project was developed as a collaborative effort by:
+- [Add team member names and roles here]
+
+## Contributing
+
+To contribute to this project:
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
